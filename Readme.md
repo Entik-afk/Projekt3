@@ -58,6 +58,6 @@ Výstupní CSV soubor bude obsahovat následující sloupce:
 
 ## Autor
 - **Jméno:** Lech Gajdzica
-- **Email:** lech.gajdzica@gmail.com
+- **Email:** lech.gajdzica@hotmail.com
 
 
