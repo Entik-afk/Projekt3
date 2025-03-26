@@ -80,7 +80,7 @@ code,location,registered,envelopes,valid,Party A,Party B,Party C
 ## Výstup
 Po úspěšném dokončení běhu programu se zobrazí zpráva:
 ```
-Hotovo! Data byla úspěšně uložena do ukol.csv.
+Hotovo! Data byla úspěšně uložena.
 ```
 Tento soubor lze poté otevřít v tabulkovém procesoru, jako je Excel nebo Google Sheets.
 
