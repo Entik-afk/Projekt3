@@ -2,7 +2,7 @@
 projekt_3.py: třetí projekt do Engeto Online Python Akademie
 
 author: Lech Gajdzica
-email: lech.gajdzica@gmail.com
+email: lech.gajdzica@hotmail.com
 """
 
 import sys
